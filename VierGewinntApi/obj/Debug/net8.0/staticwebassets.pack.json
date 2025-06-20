@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\browser\\favicon.ico",
+      "PackagePath": "staticwebassets\\browser\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\browser\\index.html",
+      "PackagePath": "staticwebassets\\browser\\index.html"
+    },
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\browser\\main-N6DHBDWO.js",
+      "PackagePath": "staticwebassets\\browser\\main-N6DHBDWO.js"
+    },
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\browser\\polyfills-FFHMD2TL.js",
+      "PackagePath": "staticwebassets\\browser\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\browser\\styles-5INURTSO.css",
+      "PackagePath": "staticwebassets\\browser\\styles-5INURTSO.css"
+    },
+    {
+      "Id": "C:\\Arbeit Hansalog\\Programmieren\\Visual Studio code\\VierGewinntFrontEndBackEndGetrennt\\VierGewinntApi\\wwwroot\\prerendered-routes.json",
+      "PackagePath": "staticwebassets\\prerendered-routes.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VierGewinntApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VierGewinntApi.props",
+      "PackagePath": "build\\VierGewinntApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VierGewinntApi.props",
+      "PackagePath": "buildMultiTargeting\\VierGewinntApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VierGewinntApi.props",
+      "PackagePath": "buildTransitive\\VierGewinntApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
